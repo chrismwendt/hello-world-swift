@@ -1,0 +1,3 @@
+- `swift package generate-xcodeproj`
+- `open hello-world.xcodeproj`
+- Build the project
